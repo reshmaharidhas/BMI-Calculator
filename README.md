@@ -8,12 +8,15 @@ Java desktop application to find BMI (Body Mass Index)
 
 Built using Java Swing
 
-### Programming language:
+### Programming language
 - Java
 
 ### Development Tools
 - Java SDK
 - NetBeans IDE
+
+### Bugs and Feedback
+For bugs, questions and discussions, please use the <a href="https://github.com/reshmaharidhas/BMI-Calculator/issues">GitHub issues</a>
 
 ## Screenshots
 ![scr1](https://user-images.githubusercontent.com/37250413/103445818-ce9ef600-4c9e-11eb-8146-1fbf6b1edd4d.jpg)
