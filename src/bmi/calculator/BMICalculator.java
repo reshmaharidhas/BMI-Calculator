@@ -75,7 +75,7 @@ public class BMICalculator implements ActionListener{
         frame.add(result2);
         frame.setSize(300,450);
         frame.setLayout(null);
-        frame.setTitle("Height Calculator");
+        frame.setTitle("BMI Calculator");
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
