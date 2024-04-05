@@ -1,9 +1,9 @@
 # BMI-Calculator
 <p align="center">
   <img src="https://img.shields.io/github/stars/reshmaharidhas/BMI-Calculator?style=social">
-  <img src="https://img.shields.io/tokei/lines/github/reshmaharidhas/BMI-Calculator">
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/BMI-Calculator">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FBMI-Calculator&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic" />
+  <img src="https://img.shields.io/github/downloads/reshmaharidhas/BMI-Calculator/total?style=flat-square&labelColor=black&color=purple">
 </p><br>
 Java desktop application to find BMI (Body Mass Index)
 
