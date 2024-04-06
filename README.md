@@ -19,6 +19,10 @@ Built using Java Swing
 ### Bugs and Feedback
 For bugs, questions and discussions, please use the <a href="https://github.com/reshmaharidhas/BMI-Calculator/issues">GitHub issues</a>
 
+## Demo
+![bmi-calculator-java-demo](https://github.com/reshmaharidhas/BMI-Calculator/assets/37250413/4e7fc6ca-2d1b-4acd-add5-aa27669e9a87)
+
+
 ## Screenshots
 ![image](https://github.com/reshmaharidhas/BMI-Calculator/assets/37250413/9dc413a2-2d50-4083-9ddd-6dd3096c940e)
 ![image](https://github.com/reshmaharidhas/BMI-Calculator/assets/37250413/d93b1af1-a410-4e35-ae1b-c7f065959491)
